@@ -1,0 +1,20 @@
+*,
+html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+button {
+  background-color: blue;
+  color: #eaeaea;
+  margin: 3px;
+  height: 180px;
+  width: 80px;
+  border: none;
+  cursor: pointer;
+  
+}
+button:hover {
+  background-color: cornflowerblue;
+  transition: 0.3s all ease-in-out;
+}
